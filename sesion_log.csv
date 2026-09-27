@@ -1,0 +1,200 @@
+hora,vida,estamina,arma,accion_ia,accion_reglas,usada,latencia_ms,razon_ia
+00:05:36,1.00,1.00,1.00,,atacar,atacar,,
+00:06:03,0.19,1.00,0.00,,parar,parar,,
+00:06:21,0.19,0.96,0.00,,parar,parar,,
+00:06:46,0.19,0.96,0.08,,parar,parar,,
+00:07:09,0.98,1.00,0.98,,atacar,atacar,,
+00:07:27,1.00,1.00,0.98,,atacar,atacar,,
+00:07:47,0.98,0.89,0.96,,atacar,atacar,,
+00:08:09,0.98,0.91,0.92,,atacar,atacar,,
+00:08:28,0.00,1.00,0.00,,parar,parar,,
+00:11:27,1.00,1.00,1.00,,atacar,atacar,,
+00:11:44,1.00,1.00,0.87,,atacar,atacar,,
+00:11:59,0.99,1.00,0.87,,atacar,atacar,,
+00:12:21,0.98,0.68,0.83,,atacar,atacar,,
+00:12:41,0.97,0.68,0.77,,atacar,atacar,,
+00:13:04,0.97,1.00,0.69,,atacar,atacar,,
+00:13:26,0.97,1.00,0.63,,atacar,atacar,,
+00:13:48,0.97,1.00,0.56,,atacar,atacar,,
+00:14:02,0.95,1.00,0.50,,atacar,atacar,,
+00:14:23,0.00,1.00,0.00,,parar,parar,,
+00:14:43,0.95,1.00,0.50,,atacar,atacar,,
+00:15:09,0.95,1.00,0.50,atacar,atacar,atacar,25124,few words
+00:15:29,0.95,1.00,0.50,atacar,atacar,atacar,20080,few words
+00:15:42,0.95,1.00,0.50,atacar,atacar,atacar,12771,few words
+00:16:05,1.00,1.00,1.00,atacar,atacar,atacar,14816,few words
+00:16:19,1.00,1.00,0.50,atacar,atacar,atacar,14128,few words
+00:16:33,0.00,1.00,0.00,atacar,parar,parar,14171,few words
+00:16:46,0.00,1.00,0.00,atacar,parar,parar,12611,few words
+00:16:50,0.00,1.00,0.00,atacar,parar,parar,4289,few words
+00:17:04,0.00,1.00,0.00,atacar,parar,parar,12025,few words
+00:17:08,0.00,1.00,0.00,atacar,parar,parar,3872,few words
+00:17:14,0.00,1.00,0.00,atacar,parar,parar,3804,few words
+00:17:20,0.00,1.00,0.00,atacar,parar,parar,3756,few words
+00:17:26,0.00,1.00,0.00,atacar,parar,parar,3776,few words
+00:17:32,0.00,1.00,0.00,atacar,parar,parar,3762,few words
+00:17:38,0.00,1.00,0.00,atacar,parar,parar,3790,few words
+00:17:44,0.00,1.00,0.00,atacar,parar,parar,3887,few words
+00:17:59,1.00,1.00,0.50,atacar,atacar,atacar,12582,few words
+00:18:12,1.00,1.00,0.00,atacar,solo_bloquear,atacar,12442,few words
+00:18:25,0.98,1.00,0.00,atacar,solo_bloquear,atacar,13352,few words
+00:18:38,0.98,1.00,0.50,atacar,atacar,atacar,12908,few words
+00:18:51,0.97,1.00,0.50,atacar,atacar,atacar,12884,few words
+00:19:04,0.95,1.00,0.50,atacar,atacar,atacar,12799,few words
+00:19:17,0.98,1.00,0.00,atacar,solo_bloquear,atacar,12893,few words
+00:19:30,0.97,1.00,0.50,atacar,atacar,atacar,12710,few words
+00:19:34,0.00,1.00,0.00,atacar,parar,parar,3824,few words
+00:19:40,0.00,1.00,0.00,atacar,parar,parar,3771,few words
+00:19:55,0.95,1.00,0.50,atacar,atacar,atacar,13090,few words
+00:20:08,0.95,0.01,0.56,atacar,solo_bloquear,atacar,12879,few words
+00:20:21,0.97,1.00,0.52,atacar,atacar,atacar,12943,few words
+00:20:34,0.96,0.31,0.50,atacar,solo_bloquear,atacar,12852,few words
+00:20:48,0.95,0.32,0.46,atacar,solo_bloquear,atacar,13204,few words
+00:21:01,0.96,0.86,0.42,atacar,atacar,atacar,13401,few words
+00:21:14,0.94,0.24,0.40,atacar,solo_bloquear,atacar,12842,few words
+00:21:28,0.94,0.37,0.37,atacar,atacar,atacar,13676,few words
+00:21:41,0.94,0.40,0.33,atacar,atacar,atacar,12912,few words
+00:21:54,0.94,0.48,0.29,atacar,atacar,atacar,13404,few words
+00:22:07,0.93,0.41,0.27,atacar,atacar,atacar,12892,few words
+00:22:21,0.93,0.47,0.25,atacar,atacar,atacar,13422,few words
+00:22:34,0.92,0.41,0.19,atacar,atacar,atacar,13033,few words
+00:22:47,0.92,0.40,0.15,atacar,atacar,atacar,13114,few words
+00:23:01,0.91,0.41,0.12,atacar,solo_bloquear,atacar,13470,few words
+00:23:13,0.92,0.34,0.10,atacar,solo_bloquear,atacar,12028,few words
+00:23:26,0.92,0.34,0.10,atacar,solo_bloquear,atacar,12950,few words
+00:31:15,1.00,1.00,1.00,atacar,atacar,atacar,13286,few words
+00:31:29,1.00,0.78,1.00,atacar,atacar,atacar,13594,few words
+00:31:43,1.00,1.00,1.00,atacar,atacar,atacar,14327,few words
+00:31:57,0.96,0.64,1.00,atacar,atacar,atacar,13971,few words
+00:32:11,0.88,0.55,1.00,atacar,atacar,atacar,13645,few words
+00:32:26,0.87,0.56,1.00,atacar,atacar,atacar,15260,few words
+00:32:40,0.85,0.59,0.90,atacar,atacar,atacar,14150,few words
+00:32:56,0.85,0.45,0.87,atacar,atacar,atacar,15321,few words
+00:33:10,0.81,0.52,0.83,atacar,atacar,atacar,14111,few words
+00:33:25,0.79,0.50,0.79,atacar,atacar,atacar,15274,few words
+00:33:40,0.74,0.50,0.75,atacar,atacar,atacar,14577,few words
+00:33:55,0.66,0.68,0.75,atacar,atacar,atacar,14463,few words
+00:34:09,0.66,0.68,0.73,atacar,atacar,atacar,13850,few words
+00:34:23,0.66,0.68,0.73,atacar,atacar,atacar,14118,few words
+00:34:38,0.66,0.68,0.85,atacar,atacar,atacar,14490,few words
+00:34:52,0.66,0.68,0.73,atacar,atacar,atacar,14251,few words
+00:35:19,1.00,1.00,1.00,atacar,atacar,atacar,13738,few words
+00:35:36,0.05,0.68,0.08,atacar,parar,parar,16403,few words
+00:35:50,0.05,0.68,0.08,atacar,parar,parar,13742,few words
+00:36:04,0.26,0.68,0.08,atacar,comer,atacar,14528,few words
+00:36:19,0.94,0.65,0.81,atacar,atacar,atacar,14764,few words
+00:36:34,0.98,0.45,0.79,atacar,atacar,atacar,14414,few words
+00:36:48,0.94,0.41,0.71,atacar,atacar,atacar,14282,few words
+00:37:03,0.98,0.26,0.71,atacar,solo_bloquear,atacar,15224,few words
+00:37:18,0.93,0.51,0.62,atacar,atacar,atacar,15025,few words
+00:37:34,0.94,0.52,0.62,atacar,atacar,atacar,15075,few words
+00:37:49,0.90,0.41,0.56,atacar,atacar,atacar,15610,few words
+00:38:05,0.93,0.26,0.54,atacar,solo_bloquear,atacar,15905,few words
+00:38:21,0.88,0.54,0.52,atacar,atacar,atacar,15051,few words
+00:38:36,0.90,0.42,0.50,atacar,atacar,atacar,15654,few words
+00:39:08,1.00,1.00,1.00,atacar,atacar,atacar,14494,few words
+00:39:23,0.30,1.00,0.00,atacar,comer,atacar,14386,few words
+00:39:38,0.30,0.52,0.00,atacar,comer,atacar,14929,few words
+00:39:52,0.06,0.41,0.00,atacar,parar,parar,13969,few words
+00:40:06,0.96,0.25,0.21,atacar,solo_bloquear,atacar,14438,few words
+00:40:23,0.92,0.62,0.21,atacar,atacar,atacar,16066,few words
+00:40:37,0.90,1.00,0.31,atacar,atacar,atacar,14075,few words
+00:40:52,0.87,1.00,0.21,atacar,atacar,atacar,15204,few words
+00:41:07,0.80,0.59,0.17,atacar,atacar,atacar,14961,few words
+00:41:23,0.61,0.45,0.17,atacar,atacar,atacar,15359,few words
+00:41:38,0.52,1.00,0.13,atacar,solo_bloquear,atacar,15519,few words
+00:41:53,0.44,0.37,0.12,atacar,comer,atacar,14540,few words
+00:42:10,0.44,0.37,0.12,atacar,comer,atacar,16949,few words
+00:42:46,1.00,1.00,1.00,atacar,atacar,atacar,13762,few words
+00:43:01,1.00,1.00,0.12,atacar,solo_bloquear,atacar,14188,few words
+00:43:14,0.82,0.22,0.08,atacar,solo_bloquear,atacar,12858,few words
+00:43:27,0.18,1.00,0.96,atacar,parar,parar,13228,few words
+00:43:40,0.00,1.00,0.00,atacar,parar,parar,12747,few words
+00:43:54,0.73,1.00,0.38,atacar,atacar,atacar,13665,few words
+01:18:05,0.00,1.00,0.00,atacar,parar,parar,4604,few words
+01:18:21,0.00,0.66,0.00,atacar,parar,parar,14026,few words
+01:18:35,0.00,0.27,0.00,atacar,parar,parar,14404,few words
+01:18:49,0.00,1.00,0.00,atacar,parar,parar,14293,few words
+01:19:04,0.00,1.00,0.00,atacar,parar,parar,14740,few words
+01:19:19,0.00,1.00,0.00,atacar,parar,parar,14386,few words
+01:19:34,0.00,1.00,0.00,atacar,parar,parar,14950,few words
+01:19:48,0.00,0.01,0.00,atacar,parar,parar,14442,few words
+01:20:03,0.00,0.51,0.00,atacar,parar,parar,14853,few words
+01:20:18,0.00,0.57,0.00,atacar,parar,parar,14756,few words
+01:22:00,0.00,1.00,0.00,atacar,parar,parar,4754,few words
+01:22:15,0.00,1.00,0.00,atacar,parar,parar,13995,few words
+01:22:30,0.00,0.27,0.00,atacar,parar,parar,14814,few words
+01:22:44,0.00,1.00,0.00,atacar,parar,parar,14431,few words
+01:22:59,0.00,1.00,0.00,atacar,parar,parar,14799,few words
+01:23:14,0.00,1.00,0.00,atacar,parar,parar,14715,few words
+01:23:29,0.00,1.00,0.00,atacar,parar,parar,15028,few words
+01:23:43,0.00,1.00,0.00,atacar,parar,parar,14657,few words
+01:23:58,0.00,0.56,0.00,atacar,parar,parar,14877,few words
+01:24:13,0.00,0.65,0.00,atacar,parar,parar,14797,few words
+01:25:00,1.00,1.00,1.00,atacar,atacar,atacar,13496,few words
+01:25:15,1.00,1.00,0.98,atacar,atacar,atacar,14857,few words
+01:25:30,0.93,1.00,0.98,atacar,atacar,atacar,14961,few words
+01:25:45,0.87,0.94,0.98,atacar,atacar,atacar,14412,few words
+01:25:59,0.80,0.22,0.94,atacar,solo_bloquear,atacar,14415,few words
+01:26:13,0.73,1.00,0.94,atacar,atacar,atacar,13793,few words
+01:26:28,0.71,0.23,0.92,atacar,solo_bloquear,atacar,14624,few words
+01:26:42,0.64,0.38,0.92,atacar,atacar,atacar,14069,few words
+01:26:57,0.56,0.34,0.90,atacar,solo_bloquear,atacar,14729,few words
+01:27:11,0.49,1.00,0.88,atacar,comer,atacar,13999,few words
+01:27:25,0.42,0.22,0.85,atacar,comer,atacar,14210,few words
+01:27:40,1.00,0.23,0.85,atacar,solo_bloquear,atacar,14656,few words
+01:27:53,0.08,1.00,0.85,atacar,parar,parar,13062,few words
+01:28:08,0.08,1.00,0.85,atacar,parar,parar,14693,few words
+01:28:23,0.10,1.00,0.85,atacar,parar,parar,14942,few words
+01:28:39,0.12,0.13,0.85,atacar,parar,parar,15700,few words
+01:28:54,0.14,1.00,0.85,atacar,parar,parar,15251,few words
+01:29:09,0.16,1.00,0.85,atacar,parar,parar,14562,few words
+01:29:25,0.17,1.00,0.85,atacar,parar,parar,15475,few words
+01:29:40,0.21,0.02,0.85,atacar,comer,atacar,15004,few words
+01:29:55,0.22,1.00,0.85,atacar,comer,atacar,14982,few words
+01:30:09,0.24,0.01,0.85,atacar,comer,atacar,14105,few words
+01:30:24,0.24,1.00,0.85,atacar,comer,atacar,14773,few words
+01:30:38,0.24,1.00,0.83,atacar,comer,atacar,14035,few words
+01:30:53,0.25,0.66,0.81,atacar,comer,atacar,14902,few words
+01:31:07,0.24,0.92,0.79,atacar,comer,atacar,14005,few words
+01:31:22,0.25,0.26,0.77,atacar,comer,atacar,14293,few words
+01:31:36,0.23,1.00,0.75,atacar,comer,atacar,14049,few words
+01:31:50,0.23,0.44,0.73,atacar,comer,atacar,13685,few words
+01:32:03,0.23,0.33,0.73,atacar,comer,atacar,13562,few words
+01:32:17,0.23,0.33,0.73,atacar,comer,atacar,13410,few words
+01:32:31,0.23,0.33,0.77,atacar,comer,atacar,14080,few words
+01:32:45,0.23,0.33,0.73,atacar,comer,atacar,13696,few words
+01:32:59,0.23,0.33,0.81,atacar,comer,atacar,14144,few words
+01:33:13,0.23,0.33,0.85,atacar,comer,atacar,13572,few words
+01:33:27,0.23,0.33,0.73,atacar,comer,atacar,14125,few words
+01:33:41,0.23,0.33,0.73,atacar,comer,atacar,14456,few words
+01:33:56,0.23,0.33,0.85,atacar,comer,atacar,14480,few words
+01:34:10,0.23,0.33,0.73,atacar,comer,atacar,13374,few words
+01:34:24,0.23,0.33,0.73,atacar,comer,atacar,14121,few words
+01:34:39,0.23,0.33,0.85,atacar,comer,atacar,14532,few words
+01:34:54,0.23,0.33,0.73,atacar,comer,atacar,14999,few words
+01:35:08,0.23,0.33,0.73,atacar,comer,atacar,13681,few words
+01:35:22,0.23,0.33,0.85,atacar,comer,atacar,14249,few words
+01:35:35,0.23,0.33,0.73,atacar,comer,atacar,13421,few words
+01:35:49,0.23,0.33,0.73,atacar,comer,atacar,13454,few words
+01:36:03,0.23,1.00,0.85,atacar,comer,atacar,14146,few words
+01:36:17,0.23,0.33,0.73,atacar,comer,atacar,13408,few words
+01:36:31,0.23,0.33,0.73,atacar,comer,atacar,14165,few words
+01:36:45,0.23,0.33,0.85,atacar,comer,atacar,14379,few words
+01:37:00,0.23,0.33,0.73,atacar,comer,atacar,14666,few words
+01:37:14,0.23,0.33,0.73,atacar,comer,atacar,13428,few words
+01:37:30,0.23,0.33,0.85,atacar,comer,atacar,15121,few words
+01:37:45,0.23,0.33,0.73,atacar,comer,atacar,14707,few words
+01:37:59,0.23,0.33,0.73,atacar,comer,atacar,14844,few words
+01:38:14,0.23,0.33,0.73,atacar,comer,atacar,14657,few words
+01:38:30,0.23,1.00,0.85,atacar,comer,atacar,15240,few words
+01:38:46,0.23,0.33,0.73,atacar,comer,atacar,16080,few words
+01:39:00,0.23,0.33,0.73,atacar,comer,atacar,14680,few words
+01:39:15,0.23,0.33,0.85,atacar,comer,atacar,14490,few words
+01:39:30,0.23,0.33,0.75,atacar,comer,atacar,14535,few words
+01:39:44,0.23,0.33,0.73,atacar,comer,atacar,14255,few words
+01:39:59,0.23,0.33,0.73,atacar,comer,atacar,14319,few words
+01:40:12,0.23,0.33,0.85,atacar,comer,atacar,13632,few words
+01:40:26,0.23,0.33,0.73,atacar,comer,atacar,13991,few words
+01:40:40,0.23,0.33,0.73,atacar,comer,atacar,13249,few words
+01:40:54,0.23,0.33,0.85,atacar,comer,atacar,13868,few words

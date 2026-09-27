@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+
+# grabaciones y capturas pesadas (se generan con grabar.py / calibrar.py)
+*.mp4
+calibracion.png
+calibracion_ia.png
