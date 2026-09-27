@@ -7,6 +7,10 @@ Bot que entrena las habilidades de combate de un personaje de Valheim leyendo so
 
 Además registra cada decisión en un CSV para comparar qué tan de acuerdo están la IA y un sistema de reglas fijo.
 
+![Bot en acción: bloquea, contraataca y muestra el panel en vivo](docs/demo.gif)
+
+*El bot peleando contra un T.W.I.G.: a la derecha, el panel con las barras leídas, el gráfico del detector de golpes, lo que ve la IA y el registro.*
+
 ![Recortes del HUD que recibe la IA](docs/hud_ia.png)
 
 ## Arquitectura
